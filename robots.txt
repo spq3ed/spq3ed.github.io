@@ -1,2 +1,0 @@
-# robots.txt file of https://spq3ed.github.io/
-sitemap: https://spq3ed.github.io/sitemap.txt
